@@ -2,7 +2,7 @@
   
 <div align="center">
 
-  ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FC9840&font=Handlee&center=true&vCenter=true&width=500&height=60&lines=✋+Hi+,+Glad+to+see+you+here+!)](https://git.io/typing-svg)
+  ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FC9840&font=Handlee&center=true&vCenter=true&width=500&height=60&lines=✋+Hi+,+glad+to+see+you+here+!)](https://git.io/typing-svg)
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
 width="800"  height="2">
 
