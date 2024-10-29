@@ -78,7 +78,7 @@ width="800"  height="2">
 <tr>
   <td>Tool</td>
   <td>
-    <img src="https://img.shields.io/badge/wagmi-EE0000.svg?style=for-the-badge&logo=wagmi&logoColor=EE0000&labelColor=white">
+    <img src="https://img.shields.io/badge/wagmi-AE48FE.svg?style=for-the-badge&logo=wagmi&logoColor=AE48FE&labelColor=white">
     <img src="https://img.shields.io/badge/ethers-000000.svg?style=for-the-badge&logo=ethers&logoColor=000000&labelColor=white">
     <img src="https://img.shields.io/badge/polkadot.js-FF8C00.svg?style=for-the-badge&logo=polkadot&logoColor=FF8C00&labelColor=white">
   </td>
