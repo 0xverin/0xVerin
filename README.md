@@ -1,3 +1,3 @@
-[![Verin1005's GitHub | Topics Over Time](https://stats.quine.sh/Verin1005/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Verin1005)
-[![Verin1005's GitHub | Languages Over Time](https://stats.quine.sh/Verin1005/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Verin1005)
-[![Verin1005's GitHub | Stats](https://stats.quine.sh/Verin1005/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Verin1005) [![Verin1005's Stack Overflow | Stats](https://stats.quine.sh/Verin1005/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Verin1005)
+[![Verin1005's GitHub | Stats](https://stats.quira.sh/Verin1005/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Verin1005)
+[![Verin1005's GitHub | Languages Over Time](https://stats.quira.sh/Verin1005/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Verin1005)
+[![Verin1005's GitHub | Topics Over Time](https://stats.quira.sh/Verin1005/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Verin1005)
