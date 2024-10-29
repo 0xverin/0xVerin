@@ -13,11 +13,11 @@ width="800"  height="2">
 [![GitHub](https://img.shields.io/github/followers/0xVerin?logo=github&style=flat-square)](https://github.com/0xVerin)
 
 <br />
- 	<a href="#">
+ 	<a href="https://github.com/0xverin">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xverin&theme=sunset-gradient"
 			alt="GitHub Streak" width="50%" />
 	</a>   
-   	<a href="#">
+   	<a href="https://github.com/0xverin">
 		<img src="https://github-readme-stats.vercel.app/api?username=0xverin&show_icons=true&theme=ambient_gradient"
 			alt="Henry's github stats" width="47%" />
 	</a>
