@@ -14,11 +14,11 @@ width="800"  height="2">
 
 <br />
  	<a href="#">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xverin&theme=synthwave"
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xverin&theme=sunset-gradient"
 			alt="GitHub Streak" width="50%" />
 	</a>   
    	<a href="#">
-		<img src="https://github-readme-stats.vercel.app/api?username=0xverin&show_icons=true&theme=synthwave"
+		<img src="https://github-readme-stats.vercel.app/api?username=0xverin&show_icons=true&theme=ambient_gradient"
 			alt="Henry's github stats" width="47%" />
 	</a>
 <br />
