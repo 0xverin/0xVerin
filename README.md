@@ -84,7 +84,7 @@ width="800"  height="2">
   </td>
 </tr>
   <tr>
-  <td>Chains</td>
+  <td>Chain</td>
   <td>
     <img src="https://img.shields.io/badge/Polkadot-FF2770.svg?style=for-the-badge&logo=polkadot&logoColor=FF2770&labelColor=white">
     <img src="https://img.shields.io/badge/Ethereum-000000.svg?style=for-the-badge&logo=ethereum&logoColor=000000&labelColor=white">
