@@ -98,7 +98,7 @@ width="800"  height="2">
 
 <h2>🌐 Socials</h2>
 
-[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/CryptoVerin) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/0xverin)
+[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/CryptoVerin) [![X](https://img.shields.io/badge/X-0F1419.svg?logo=X&logoColor=white)](https://x.com/0xverin) [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white)](mailto:0xverin@gmail.com)
 
 <h2>✍️ Recently Posts</h2>
 
