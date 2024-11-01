@@ -100,7 +100,7 @@ width="800"  height="2">
 
 [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/CryptoVerin) [![X](https://img.shields.io/badge/X-0F1419.svg?logo=X&logoColor=white)](https://x.com/0xverin) [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white)](mailto:0xverin@gmail.com)
 
-<h2>✍️ Recently Posts</h2>
+<h2>✍️ Recent Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [一个Web3开发的入门历程](https://juejin.cn/post/7138072108516507661)
