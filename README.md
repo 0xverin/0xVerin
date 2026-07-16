@@ -8,13 +8,6 @@
 [![Total Stars](https://img.shields.io/github/stars/0xverin?affiliations=OWNER&style=flat-square&label=TOTAL%20STARS&labelColor=555&color=C52C77)](https://github.com/0xverin?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/0xverin?style=flat-square&label=FOLLOWERS&labelColor=555&color=2E9B74)](https://github.com/0xverin?tab=followers)
 
-<br />
-
-Remote collaborator working comfortably in **Chinese or English**.
-Exploring AI agents, frontier technology, and crypto systems.
-
-<sub>Professional token waster - turning context windows into experiments.</sub>
-
 </div>
 
 ---
