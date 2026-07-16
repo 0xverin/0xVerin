@@ -3,52 +3,79 @@
   <desc id="desc">A neon terminal banner highlighting remote collaboration, AI agent research, and crypto systems.</desc>
 
   <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b2b36" />
+      <stop offset="0.52" stop-color="#14233c" />
+      <stop offset="1" stop-color="#123440" />
+    </linearGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#12313d" />
+      <stop offset="0.55" stop-color="#18283d" />
+      <stop offset="1" stop-color="#123440" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#103541" />
+      <stop offset="1" stop-color="#1a2640" />
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00d9ff" />
+      <stop offset="0.5" stop-color="#536a91" />
+      <stop offset="1" stop-color="#ff3d9a" />
+    </linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#18212c" stroke-width="1" />
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#4a7180" stroke-width="1" />
+    </pattern>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5 H4" stroke="#a9d9e3" stroke-opacity="0.08" stroke-width="1" />
     </pattern>
   </defs>
 
-  <rect width="1200" height="360" rx="14" fill="#06080d" />
-  <rect x="1" y="1" width="1198" height="358" rx="13" fill="none" stroke="#263343" stroke-width="2" />
-  <rect x="1" y="1" width="1198" height="42" rx="13" fill="#0d1219" />
-  <rect x="1" y="31" width="1198" height="12" fill="#0d1219" />
+  <rect width="1200" height="360" rx="14" fill="url(#background)" />
+  <path d="M0 262 L250 48 H490 L140 360 H0 Z" fill="#00d9ff" opacity="0.035" />
+  <path d="M790 0 H1200 V128 L1020 300 H830 L1130 0 Z" fill="#ff3d9a" opacity="0.035" />
+  <path d="M28 306 H232 L268 270 H394" fill="none" stroke="#00d9ff" stroke-width="1" opacity="0.32" />
+  <path d="M956 52 H1110 L1140 82 V126" fill="none" stroke="#ff3d9a" stroke-width="1" opacity="0.3" />
+  <rect x="1" y="1" width="1198" height="358" rx="13" fill="none" stroke="url(#frame)" stroke-opacity="0.62" stroke-width="2" />
+  <rect x="1" y="1" width="1198" height="42" rx="13" fill="url(#chrome)" />
+  <rect x="1" y="31" width="1198" height="12" fill="url(#chrome)" />
   <circle cx="25" cy="22" r="6" fill="#ff4d68" />
   <circle cx="47" cy="22" r="6" fill="#f5a623" />
   <circle cx="69" cy="22" r="6" fill="#47d16c" />
-  <text x="600" y="27" text-anchor="middle" fill="#778493" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">frontier-node / research-session</text>
+  <text x="600" y="27" text-anchor="middle" fill="#93adba" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">frontier-node / research-session</text>
 
-  <rect x="1" y="43" width="1198" height="316" fill="url(#grid)" opacity="0.72" />
-  <path d="M730 60 V300" stroke="#263343" stroke-width="1" />
+  <rect x="1" y="43" width="1198" height="316" fill="url(#grid)" opacity="0.38" />
+  <rect x="1" y="43" width="1198" height="316" fill="url(#scanlines)" />
+  <path d="M730 60 V300" stroke="#547180" stroke-width="1" opacity="0.7" />
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
-    <text x="56" y="82" fill="#00d9ff" font-size="17">0xverin@frontier-node:~$ whoami</text>
+    <text x="56" y="82" fill="#38e5ff" font-size="17">0xverin@frontier-node:~$ whoami</text>
     <text x="56" y="134" fill="#f4f7fb" font-size="35" font-weight="600">REMOTE AI x CRYPTO RESEARCH</text>
-    <text x="56" y="174" fill="#a8b4c1" font-size="18">Chinese / English collaboration. Exploring systems at the edge.</text>
+    <text x="56" y="174" fill="#c0d0d8" font-size="18">Chinese / English collaboration. Exploring systems at the edge.</text>
 
     <text x="56" y="222" fill="#47d16c" font-size="16">[ok]</text>
     <text x="106" y="222" fill="#d9e1e8" font-size="16">remote_collaboration</text>
-    <text x="350" y="222" fill="#778493" font-size="16">active</text>
+    <text x="350" y="222" fill="#91aebb" font-size="16">active</text>
 
     <text x="56" y="250" fill="#47d16c" font-size="16">[ok]</text>
     <text x="106" y="250" fill="#d9e1e8" font-size="16">frontier_radar</text>
-    <text x="350" y="250" fill="#778493" font-size="16">always scanning</text>
+    <text x="350" y="250" fill="#91aebb" font-size="16">always scanning</text>
 
     <text x="56" y="278" fill="#f5a623" font-size="16">[!!]</text>
     <text x="106" y="278" fill="#d9e1e8" font-size="16">token_efficiency</text>
     <text x="350" y="278" fill="#f5a623" font-size="16">questionable</text>
 
-    <rect x="770" y="70" width="370" height="86" rx="8" fill="#0d1219" stroke="#00d9ff" stroke-width="1.5" />
+    <rect x="770" y="70" width="370" height="86" rx="8" fill="url(#panel)" fill-opacity="0.9" stroke="#00d9ff" stroke-width="1.5" />
     <text x="794" y="99" fill="#00d9ff" font-size="13">AGENT_LAB / 01</text>
     <text x="794" y="130" fill="#f4f7fb" font-size="23">SKILLS · CODEX · CLAUDE</text>
 
-    <rect x="770" y="174" width="370" height="86" rx="8" fill="#0d1219" stroke="#ff3d9a" stroke-width="1.5" />
+    <rect x="770" y="174" width="370" height="86" rx="8" fill="url(#panel)" fill-opacity="0.9" stroke="#ff3d9a" stroke-width="1.5" />
     <text x="794" y="203" fill="#ff3d9a" font-size="13">CRYPTO_SYSTEMS / 02</text>
     <text x="794" y="234" fill="#f4f7fb" font-size="23">DEFI · CEX · DEX</text>
 
-    <text x="770" y="294" fill="#778493" font-size="14">EVM · BITCOIN · POLKADOT</text>
-    <text x="770" y="318" fill="#778493" font-size="14">ARBITRAGE SCRIPTS · INFO MONITORING</text>
+    <text x="770" y="294" fill="#93adba" font-size="14">EVM · BITCOIN · POLKADOT</text>
+    <text x="770" y="318" fill="#93adba" font-size="14">ARBITRAGE SCRIPTS · INFO MONITORING</text>
 
     <text x="56" y="330" fill="#ff3d9a" font-size="14">professional_token_waster=true</text>
-    <text x="1140" y="330" text-anchor="end" fill="#778493" font-size="13">UTC+8 / REMOTE</text>
+    <text x="1140" y="330" text-anchor="end" fill="#93adba" font-size="13">UTC+8 / REMOTE</text>
   </g>
 </svg>

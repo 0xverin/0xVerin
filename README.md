@@ -4,9 +4,9 @@
 
 <br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=0xverin&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/0xverin)
-[![Total Stars](https://img.shields.io/github/stars/0xverin?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=FF3D9A)](https://github.com/0xverin?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/0xverin?style=for-the-badge&logo=github&label=FOLLOWERS&color=F5A623)](https://github.com/0xverin?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=0xverin&style=flat-square&color=00A7C4&label=PROFILE+VIEWS)](https://github.com/0xverin)
+[![Total Stars](https://img.shields.io/github/stars/0xverin?affiliations=OWNER&style=flat-square&label=TOTAL%20STARS&labelColor=555&color=C52C77)](https://github.com/0xverin?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/0xverin?style=flat-square&label=FOLLOWERS&labelColor=555&color=2E9B74)](https://github.com/0xverin?tab=followers)
 
 <br />
 
