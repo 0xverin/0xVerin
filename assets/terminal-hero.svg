@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">0xverin remote AI and crypto research terminal</title>
+  <desc id="desc">A neon terminal banner highlighting remote collaboration, AI agent research, and crypto systems.</desc>
+
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#18212c" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="14" fill="#06080d" />
+  <rect x="1" y="1" width="1198" height="358" rx="13" fill="none" stroke="#263343" stroke-width="2" />
+  <rect x="1" y="1" width="1198" height="42" rx="13" fill="#0d1219" />
+  <rect x="1" y="31" width="1198" height="12" fill="#0d1219" />
+  <circle cx="25" cy="22" r="6" fill="#ff4d68" />
+  <circle cx="47" cy="22" r="6" fill="#f5a623" />
+  <circle cx="69" cy="22" r="6" fill="#47d16c" />
+  <text x="600" y="27" text-anchor="middle" fill="#778493" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">frontier-node / research-session</text>
+
+  <rect x="1" y="43" width="1198" height="316" fill="url(#grid)" opacity="0.72" />
+  <path d="M730 60 V300" stroke="#263343" stroke-width="1" />
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="56" y="82" fill="#00d9ff" font-size="17">0xverin@frontier-node:~$ whoami</text>
+    <text x="56" y="134" fill="#f4f7fb" font-size="35" font-weight="600">REMOTE AI x CRYPTO RESEARCH</text>
+    <text x="56" y="174" fill="#a8b4c1" font-size="18">Chinese / English collaboration. Exploring systems at the edge.</text>
+
+    <text x="56" y="222" fill="#47d16c" font-size="16">[ok]</text>
+    <text x="106" y="222" fill="#d9e1e8" font-size="16">remote_collaboration</text>
+    <text x="350" y="222" fill="#778493" font-size="16">active</text>
+
+    <text x="56" y="250" fill="#47d16c" font-size="16">[ok]</text>
+    <text x="106" y="250" fill="#d9e1e8" font-size="16">frontier_radar</text>
+    <text x="350" y="250" fill="#778493" font-size="16">always scanning</text>
+
+    <text x="56" y="278" fill="#f5a623" font-size="16">[!!]</text>
+    <text x="106" y="278" fill="#d9e1e8" font-size="16">token_efficiency</text>
+    <text x="350" y="278" fill="#f5a623" font-size="16">questionable</text>
+
+    <rect x="770" y="70" width="370" height="86" rx="8" fill="#0d1219" stroke="#00d9ff" stroke-width="1.5" />
+    <text x="794" y="99" fill="#00d9ff" font-size="13">AGENT_LAB / 01</text>
+    <text x="794" y="130" fill="#f4f7fb" font-size="23">SKILLS · CODEX · CLAUDE</text>
+
+    <rect x="770" y="174" width="370" height="86" rx="8" fill="#0d1219" stroke="#ff3d9a" stroke-width="1.5" />
+    <text x="794" y="203" fill="#ff3d9a" font-size="13">CRYPTO_SYSTEMS / 02</text>
+    <text x="794" y="234" fill="#f4f7fb" font-size="23">DEFI · CEX · DEX</text>
+
+    <text x="770" y="294" fill="#778493" font-size="14">EVM · BITCOIN · POLKADOT</text>
+    <text x="770" y="318" fill="#778493" font-size="14">ARBITRAGE SCRIPTS · INFO MONITORING</text>
+
+    <text x="56" y="330" fill="#ff3d9a" font-size="14">professional_token_waster=true</text>
+    <text x="1140" y="330" text-anchor="end" fill="#778493" font-size="13">UTC+8 / REMOTE</text>
+  </g>
+</svg>
