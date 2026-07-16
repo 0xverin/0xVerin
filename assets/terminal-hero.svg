@@ -22,6 +22,7 @@
       <stop offset="0.5" stop-color="#536a91" />
       <stop offset="1" stop-color="#ff3d9a" />
     </linearGradient>
+    <path id="frame-orbit" d="M100 1 H1186 A13 13 0 0 1 1199 14 V346 A13 13 0 0 1 1186 359 H14 A13 13 0 0 1 1 346 V14 A13 13 0 0 1 14 1 H100 Z" />
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#4a7180" stroke-width="1" />
     </pattern>
@@ -50,7 +51,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
     <text x="56" y="82" fill="#38e5ff" font-size="17">0xverin@frontier-node:~$ whoami</text>
     <text x="56" y="134" fill="#f4f7fb" font-size="35" font-weight="600">REMOTE AI x CRYPTO RESEARCH</text>
-    <text x="56" y="174" fill="#c0d0d8" font-size="18">Chinese / English collaboration. Exploring systems at the edge.</text>
+    <text x="56" y="174" fill="#c0d0d8" font-size="17">Chinese / English · Frontier AI + crypto research.</text>
 
     <text x="56" y="222" fill="#47d16c" font-size="16">[ok]</text>
     <text x="106" y="222" fill="#d9e1e8" font-size="16">remote_collaboration</text>
@@ -68,14 +69,24 @@
     <text x="794" y="99" fill="#00d9ff" font-size="13">AGENT_LAB / 01</text>
     <text x="794" y="130" fill="#f4f7fb" font-size="23">SKILLS · CODEX · CLAUDE</text>
 
-    <rect x="770" y="174" width="370" height="86" rx="8" fill="url(#panel)" fill-opacity="0.9" stroke="#ff3d9a" stroke-width="1.5" />
+    <rect x="770" y="174" width="370" height="144" rx="8" fill="url(#panel)" fill-opacity="0.9" stroke="#ff3d9a" stroke-width="1.5" />
     <text x="794" y="203" fill="#ff3d9a" font-size="13">CRYPTO_SYSTEMS / 02</text>
     <text x="794" y="234" fill="#f4f7fb" font-size="23">DEFI · CEX · DEX</text>
-
-    <text x="770" y="294" fill="#93adba" font-size="14">EVM · BITCOIN · POLKADOT</text>
-    <text x="770" y="318" fill="#93adba" font-size="14">ARBITRAGE SCRIPTS · INFO MONITORING</text>
+    <text x="794" y="268" fill="#93adba" font-size="14">EVM · BITCOIN · POLKADOT</text>
+    <text x="794" y="300" fill="#93adba" font-size="14">ARBITRAGE SCRIPTS · INFO MONITORING</text>
 
     <text x="56" y="330" fill="#ff3d9a" font-size="14">professional_token_waster=true</text>
-    <text x="1140" y="330" text-anchor="end" fill="#93adba" font-size="13">UTC+8 / REMOTE</text>
+    <text x="1140" y="344" text-anchor="end" fill="#93adba" font-size="13">UTC+8 / REMOTE</text>
+  </g>
+
+  <g>
+    <ellipse cx="-11" rx="14" ry="2.5" fill="#38e5ff" opacity="0.12" />
+    <ellipse cx="-7" rx="9" ry="1.5" fill="#80efff" opacity="0.32" />
+    <circle r="7" fill="#38e5ff" opacity="0.14" />
+    <circle r="4" fill="#80efff" opacity="0.4" />
+    <circle r="2" fill="#ffffff" />
+    <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#frame-orbit" />
+    </animateMotion>
   </g>
 </svg>
