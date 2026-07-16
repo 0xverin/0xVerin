@@ -12,19 +12,14 @@
 
 ---
 
-### `$ connect --channels`
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/TELEGRAM-143440?style=flat-square&logo=telegram&logoColor=38E5FF)](https://t.me/CryptoVerin)
-[![X](https://img.shields.io/badge/X-143440?style=flat-square&logo=x&logoColor=FFFFFF)](https://x.com/0xverin)
-[![Email](https://img.shields.io/badge/EMAIL-143440?style=flat-square&logo=gmail&logoColor=FF5AA7)](mailto:0xverin@gmail.com)
-
-</div>
-
-### `$ tail -n 2 ~/recent-posts.log`
+<p align="center">
+  <a href="https://t.me/CryptoVerin"><img src="./assets/social-telegram.svg" width="31%" alt="Connect with 0xverin on Telegram" /></a>
+  <a href="https://x.com/0xverin"><img src="./assets/social-x.svg" width="31%" alt="Connect with 0xverin on X" /></a>
+  <a href="mailto:0xverin@gmail.com"><img src="./assets/social-email.svg" width="31%" alt="Email 0xverin" /></a>
+</p>
 
 <!-- BLOG-POST-LIST:START -->
-- `[POST_01]` [一个Web3开发的入门历程](https://juejin.cn/post/7138072108516507661)
-- `[POST_02]` [Web3远程开发的年终总结](https://juejin.cn/post/7187272999546912828)
+<a href="https://juejin.cn/post/7138072108516507661"><img src="./assets/post-web3-intro.svg" width="100%" alt="一个Web3开发的入门历程" /></a>
+<br />
+<a href="https://juejin.cn/post/7187272999546912828"><img src="./assets/post-remote-summary.svg" width="100%" alt="Web3远程开发的年终总结" /></a>
 <!-- BLOG-POST-LIST:END -->

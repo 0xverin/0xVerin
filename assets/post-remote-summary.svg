@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88" role="img" aria-labelledby="title desc">
+  <title id="title">Web3远程开发的年终总结</title>
+  <desc id="desc">Cyber terminal row linking to the Juejin post.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b2b36" />
+      <stop offset="0.58" stop-color="#14233c" />
+      <stop offset="1" stop-color="#123440" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 H0 V24" fill="none" stroke="#4a7180" stroke-width="1" opacity="0.25" />
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="86" rx="7" fill="url(#background)" stroke="#ff5aa7" stroke-width="1.5" />
+  <rect x="1" y="1" width="1198" height="86" rx="7" fill="url(#grid)" />
+  <path d="M28 64 H560 L580 44 H880" fill="none" stroke="#ff5aa7" stroke-width="1" opacity="0.3" />
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="28" y="27" fill="#ff5aa7" font-size="12">$ tail -n 2 ~/recent-posts.log</text>
+    <text x="28" y="61" fill="#ff5aa7" font-size="15">[POST_02]</text>
+    <text x="142" y="61" fill="#f4f7fb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21" font-weight="600">Web3远程开发的年终总结</text>
+    <text x="1168" y="53" text-anchor="end" fill="#ffd166" font-size="13" font-weight="600">JUEJIN / OPEN</text>
+  </g>
+</svg>

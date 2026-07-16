@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="88" viewBox="0 0 360 88" role="img" aria-labelledby="title desc">
+  <title id="title">Connect on X</title>
+  <desc id="desc">Cyber terminal button linking to 0xverin on X.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b2b36" />
+      <stop offset="1" stop-color="#18243d" />
+    </linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0 H0 V20" fill="none" stroke="#4a7180" stroke-width="1" opacity="0.28" />
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="358" height="86" rx="7" fill="url(#background)" stroke="#93adba" stroke-width="1.5" />
+  <rect x="1" y="1" width="358" height="86" rx="7" fill="url(#grid)" />
+  <path d="M24 25 53 62 M51 25 22 62" fill="none" stroke="#f4f7fb" stroke-width="2.5" stroke-linecap="round" />
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="76" y="29" fill="#93adba" font-size="12">$ connect --channel</text>
+    <text x="76" y="55" fill="#f4f7fb" font-size="20" font-weight="600">X</text>
+    <text x="76" y="73" fill="#93adba" font-size="11">@0xverin</text>
+    <text x="336" y="55" text-anchor="end" fill="#47d16c" font-size="12">[OPEN]</text>
+  </g>
+</svg>

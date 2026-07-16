@@ -98,11 +98,11 @@
     <text x="690" y="458" fill="#38e5ff" font-size="15">frontier-tech/</text>
     <text x="842" y="458" fill="#93adba" font-size="14">new tools · new models · experiments</text>
 
-    <g transform="translate(998 480) scale(0.55)" fill="none" stroke="#93adba" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(985 482) scale(0.55)" fill="none" stroke="#ffd166" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z" />
       <circle cx="12" cy="10" r="3" />
     </g>
-    <text x="1148" y="494" text-anchor="end" fill="#93adba" font-size="12">CHINA HEFEI / UTC+8</text>
+    <text x="1148" y="494" text-anchor="end" fill="#ffd166" font-size="13" font-weight="600">CHINA HEFEI / UTC+8</text>
   </g>
 
   <g>
